@@ -1,0 +1,19 @@
+Welcome to this demonstration of the Hospital Appointment System.
+
+In this test, titled "Scenario 1: Patient registers, logs in, and books an appointment", we will walk through the complete user journey.
+
+The test begins at 11:49:57.
+
+First, we navigate to the /register page.
+Now, we fill in the registration form with the user's information.
+The user clicks on the Book Appointment button to start the booking process.
+The user selects a medical department from the dropdown menu.
+Next, the user chooses a specific doctor from the available options.
+The user then selects an available appointment time slot.
+
+Throughout this process, the system performs several validations:
+- expected **/login** to equal **/login**
+- expected **/patient** to equal **/patient**
+- expected **/patient/appointments** to equal **/patient/appointments**
+
+The test completes successfully at 11:50:01, demonstrating a seamless user experience from registration to appointment booking.

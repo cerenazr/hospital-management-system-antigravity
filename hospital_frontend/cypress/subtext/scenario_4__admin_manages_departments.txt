@@ -1,0 +1,13 @@
+Welcome to this demonstration of the Hospital Appointment System.
+
+In this test, titled "Scenario 4: Admin manages departments", we will walk through the complete user journey.
+
+The test begins at 11:50:03.
+
+First, we navigate to the /login page.
+Now, we fill in the registration form with the user's information.
+
+Throughout this process, the system performs several validations:
+- expected **/admin** to equal **/admin**
+
+The test completes successfully at 11:50:04, demonstrating a seamless user experience from registration to appointment booking.

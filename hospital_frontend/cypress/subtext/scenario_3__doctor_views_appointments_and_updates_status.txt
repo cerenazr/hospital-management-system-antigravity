@@ -1,0 +1,13 @@
+Welcome to this demonstration of the Hospital Appointment System.
+
+In this test, titled "Scenario 3: Doctor views appointments and updates status", we will walk through the complete user journey.
+
+The test begins at 11:50:02.
+
+First, we navigate to the /login page.
+Now, we fill in the registration form with the user's information.
+
+Throughout this process, the system performs several validations:
+- expected **/doctor** to equal **/doctor**
+
+The test completes successfully at 11:50:03, demonstrating a seamless user experience from registration to appointment booking.
